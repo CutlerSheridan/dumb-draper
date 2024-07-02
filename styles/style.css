@@ -30,6 +30,11 @@ body {
 .logo-wrapper > img {
   width: 100%;
 }
+@media only screen and (max-height: 350px) and (orientation: landscape) {
+  .logo-wrapper {
+    width: 45vh;
+  }
+}
 footer {
   position: absolute;
   bottom: 0;

@@ -16,6 +16,12 @@
 
 #### DONE
 
+_0.2.0_
+
+- add share preview image
+- make logo responsive for wide screens with short heights
+- add footer URL
+
 _0.1.1_
 
 - refactor footer placement code
