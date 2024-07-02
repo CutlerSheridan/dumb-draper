@@ -4,6 +4,8 @@
 
 #### TODO NEXT
 
+- refactor footer placement code
+
 #### TODO LATER
 
 ##### Features
@@ -13,6 +15,12 @@
 ##### Style
 
 #### DONE
+
+_0.1.0_
+
+- build homepage with logo
+- add proper colors
+- create footer
 
 _0.0.0_
 
