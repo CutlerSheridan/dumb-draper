@@ -16,6 +16,12 @@
 
 #### DONE
 
+_1.0.0_
+
+- adjust logo responsiveness
+- add contact link
+- add share descriptions
+
 _0.2.0_
 
 - add share preview image
