@@ -16,6 +16,10 @@
 
 #### DONE
 
+_1.0.2_
+
+- fix share preview image filename mismatch
+
 _1.0.1_
 
 - remove .flex-padding height
