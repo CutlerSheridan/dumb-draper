@@ -41,13 +41,10 @@ a {
   flex-direction: column;
   justify-content: space-between;
 }
-.flex-padding {
-  height: 1rem;
-}
 
 .logo-wrapper {
   margin: auto;
-  margin-top: -3rem;
+  margin-top: -2rem;
   width: clamp(16rem, 28%, 23rem);
 }
 .logo-wrapper > img {

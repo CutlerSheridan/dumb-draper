@@ -16,6 +16,11 @@
 
 #### DONE
 
+_1.0.1_
+
+- remove .flex-padding height
+- adjust logo top margin
+
 _1.0.0_
 
 - adjust logo responsiveness
